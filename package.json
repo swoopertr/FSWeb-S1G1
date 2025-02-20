@@ -1,0 +1,25 @@
+{
+  "name": "fsweb-s1g1",
+  "version": "1.0.0",
+  "description": "Yeni bir kurumda bir Full Stack Web Developer olarak işe başladığınızı hayal et. İlk gün yapacağın işlerden biri de, sorumlu olacağın projenin kodlarını kendi bilgisayarınıza almak ve bu kodların çalışacağı ortamı hazırlamak.",
+  "homepage": "https://github.com/swoopertr/FSWeb-S1G1#readme",
+  "bugs": {
+    "url": "https://github.com/swoopertr/FSWeb-S1G1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swoopertr/FSWeb-S1G1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "",
+    "test" : ""
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}
