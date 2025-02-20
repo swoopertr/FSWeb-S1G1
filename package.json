@@ -15,9 +15,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "",
-    "test" : ""
+    "start": "node index.js"
   },
   "dependencies": {
     "date-fns": "^4.1.0"
