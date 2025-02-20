@@ -12,3 +12,7 @@ console.log(year);
 
 
 let surName ="agac"
+
+function sum(x,y){
+    return x+y;
+}
