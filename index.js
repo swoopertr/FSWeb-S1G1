@@ -16,3 +16,7 @@ let surName ="agac"
 function sum(x,y){
     return x+y;
 }
+
+function sub(x,y){
+    return x-y;
+}
